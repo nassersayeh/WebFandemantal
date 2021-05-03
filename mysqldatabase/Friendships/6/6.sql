@@ -1,0 +1,1 @@
+delete from friendships where friend_id = 5;

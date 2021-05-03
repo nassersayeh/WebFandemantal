@@ -1,0 +1,15 @@
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div{
+    display: flex;
+    width: 900px;
+}
+p{
+    margin-left: 100px;
+}
+.div1{
+    width: 900px;height: 1px;background-color: black;display: flex;justify-content: center;align-items: center;margin-top: 10px;margin-left: 100px;
+}
