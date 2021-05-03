@@ -1,0 +1,243 @@
+.container{
+    background-color: rgb(61, 30, 39);
+    width: 970px;
+    height:fit-content;
+    align-content: center;
+    display: inline-block;
+}
+#header{
+    background-color: rgb(206, 201, 202);
+    width: 970px;
+    height:100px;
+    display: inline-block;
+
+
+}
+#firsth1{
+    color: rgb(26, 26, 31);
+    margin: 25px;
+    display: flex;
+    display: inline-block;
+    justify-content: space-between;
+    font-family: sans-serif;
+
+}
+#firsth2{
+    color: rgb(26, 26, 31);
+    display: inline-block;
+    margin-left: 400px;
+
+}
+#firstimg{
+    border: 5px solid rgb(139, 138, 138);
+    display: inline-block;
+    margin-left: 30px;
+    margin-top: 30px;
+
+}
+#about{
+    background-color: rgb(219, 220, 223);
+    width: 500px;
+    height: 330px;
+    display: inline-block;
+    vertical-align:top;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+#hiderabout{
+    background-color: rgb(133, 128, 128);
+    width: 500px;
+    height: 50px;
+    display: inline-block;
+
+}
+#secongh2 {
+    color: snow;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#firstp{
+    color: slategray;
+    margin-left: 10px;
+}
+a{
+    color: slategray;
+}
+#lamode{
+    background-color: rgb(205, 207, 209);
+    width: 250px;
+    height: 700px;
+    display: inline-block;
+    vertical-align:top;
+    margin-left: 30px;
+    margin-top: 30px;
+    
+    
+}
+#lamodehider{
+    background-color: rgb(137, 138, 139);
+    width: 250px;
+    height: 50px;
+    display: inline-block;
+}
+#lamodehider2{
+    background-color: rgb(137, 138, 139);
+    width: 250px;
+    height: 50px;
+    display: inline-block;
+}
+#lamodehider3{
+    background-color: rgb(137, 138, 139);
+    width: 250px;
+    height: 50px;
+    display: inline-block;
+}
+#lamodehider4{
+    background-color: rgb(137, 138, 139);
+    width: 250px;
+    height: 50px;
+    display: inline-block;
+}
+#secondh2{
+    color: snow;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#secondh22{
+    color: snow;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#secondh23{
+    color: snow;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#secondh24{
+    color: snow;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#secondimg{
+    width: 250px;
+    height: 100px;
+}
+#lamodep{
+    margin-left: 10px;
+}
+#familycontacts{
+    background-color: rgb(205, 207, 209);
+    width: 250px;
+    height: 700px;
+    display: inline-block;
+    vertical-align:top;
+    margin-left: 30px;
+    margin-top: 30px;
+    
+    
+}
+#familyhider{
+    background-color: rgb(137, 138, 139);
+    width: 250px;
+    height: 50px;
+    display: inline-block;
+}
+#theardh2{
+    color: snow;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#thierdimg{
+    width: 250px;
+    height: 100px;
+}
+#familyp{
+    margin-left: 10px;
+}
+#fiveeleven{
+    background-color: rgb(205, 207, 209);
+    width: 250px;
+    height: 700px;
+    display: inline-block;
+    vertical-align:top;
+    margin-left: 30px;
+    margin-top: 30px;
+    
+    
+}
+#fivehider{
+    background-color: rgb(137, 138, 139);
+    width: 250px;
+    height: 50px;
+    display: inline-block;
+}
+#fourthdh2{
+    color: snow;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#fourthimg{
+    width: 250px;
+    height: 100px;
+}
+#fivep{
+    margin-left: 10px;
+}
+.javascriptimg{
+    width: 50px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.cssimg{
+    width: 50px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.jqueryimg{
+    width: 50px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.htmlimg{
+    width: 50px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#footer{
+    background-color: rgb(188, 190, 192);
+    width: 970px;
+    height:100px;
+    margin-top: 10px;
+}
+#footerp{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#facebookpng{
+    width: 30px;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    margin-left: 350px;
+
+}
+#facebooka{
+    display: inline-block;
+    justify-content: center;
+    vertical-align:top;
+
+}
+#linkedinpng{
+    width: 30px;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+
+}
+#linkedina{
+    display: inline-block;
+    justify-content: center;
+    vertical-align:top;
+
+}
